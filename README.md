@@ -11,6 +11,6 @@ or
 
 * zgrep email /var/log/exim/mainlog.0.gz *
 
-##USAGE
+## USAGE
 
 maillog email [0-10]
